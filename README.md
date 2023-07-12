@@ -26,6 +26,12 @@
 
 ### 📊 My Stats :
 
-<div align="center"> 
-   <img  src="https://github-readme-streak-stats.herokuapp.com?user=DiegoQuintanaF&theme=react&border_radius=12&date_format=%5BY%20%5DM%20j"/> 
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoQuintanaF&layout=compact&theme=react&border_radius=12"/> 
 </div>
+<br>
+<div align="center"> 
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=DiegoQuintanaF&theme=react&border_radius=12&date_format=%5BY%20%5DM%20j"/>
+</div>
+
+
