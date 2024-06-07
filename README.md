@@ -1,4 +1,4 @@
-![MasterHead](https://edutour.tel-aviv.gov.il/wp-content/uploads/2021/04/14700_4_site-hinuch_banner5.gif)
+![MasterHead](https://raw.githubusercontent.com/DiegoQuintanaF/creinnova-client/main/grid-snake.svg)
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Diego Quintana!</h1>
     <h3 align="center">A passionate fullstack web developer from Colombia.</h3>
